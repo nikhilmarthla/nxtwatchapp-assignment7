@@ -5,14 +5,14 @@ import Login from './components/login'
 import Home from './components/Home'
 import Trending from './components/Trending'
 import Gaming from './components/Gaming'
-import SavedVideos from './components/SavedVideos'
+import SavedVideos from './components/SavedVidoes'
 import NotFound from './components/NotFound'
 import VideoItemDetails from './components/VideoItemDetails'
 import ProtectedRoute from './components/ProtectedRoute'
 
 import ActiveMenuContext from './Context/ActiveMenuContext'
 import ThemeContext from './Context/ThemeContext'
-import SavedVideosContext from './Context/SavedVideosContext'
+import SavedVideosContext from './Context/SavedVidoesContext'
 
 import './App.css'
 

@@ -18,7 +18,7 @@ import {
 } from './styledComponents'
 
 import TrendingVideoCard from '../TrendingVideoCard'
-import SavedVideosContext from '../../Context/SavedVideosContext'
+import SavedVideosContext from '../../Context/SavedVidoesContext'
 import ThemeContext from '../../Context/ThemeContext'
 
 const SavedVideos = () => {

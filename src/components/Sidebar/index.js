@@ -1,6 +1,6 @@
 import {Component} from 'react'
 
-import MenuItemsList from '../MenuItemsList'
+import MenuItemsList from '../MenuItemList'
 
 import ThemeContext from '../../Context/ThemeContext'
 import {

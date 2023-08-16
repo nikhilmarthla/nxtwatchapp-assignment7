@@ -9,7 +9,7 @@ import Header from '../Header'
 import Sidebar from '../Sidebar'
 
 import ThemeContext from '../../Context/ThemeContext'
-import SavedVideosContext from '../../Context/SavedVideosContext'
+import SavedVideosContext from '../../Context/SavedVidoesContext'
 
 import {
   MainBody,

@@ -10,7 +10,7 @@ import Cookies from 'js-cookie'
 
 import Popup from 'reactjs-popup'
 
-import MenuItemsList from '../MenuItemsList'
+import MenuItemsList from '../MenuItemList'
 
 import ActiveMenuContext from '../../Context/ActiveMenuContext'
 import ThemeContext from '../../Context/ThemeContext'
